@@ -1,6 +1,6 @@
 /*
- Usage: ./send <systemCode> <unitCode> <command>
- Command is 0 for OFF and 1 for ON
+ Usage: ./sendv2 <systemCode>
+This is only needed for the Raspi-Rollo webapp
  */
 
 #include "RCSwitch.h"
