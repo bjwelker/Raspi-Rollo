@@ -6,5 +6,6 @@ Arduino sketch for finding the codes from your remote. Thanks to IngTimo from Ud
 
 You need
 - RaspberryPi with Raspian and wiringPi installed
+- Python installed with flask (pip install flask)
 - 433 MHz sender and receiver
 - Arduino Nano or other for reading your remote
